@@ -1,0 +1,2 @@
+Q: what happens when you initialise a repository? Why do you need to do it?
+A: when initialising a repository a .get directory is been created.

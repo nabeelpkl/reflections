@@ -1,0 +1,3 @@
+Diff in ubuntu is really helpful in viewing differences between two files. This will help us in comparing errors in our code with previous files
+Q: Now that you have your workspace set up,what do you want to try using Git for?
+A: I want try Git with some real project
