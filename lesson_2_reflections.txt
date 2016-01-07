@@ -2,3 +2,13 @@ Q: what happens when you initialise a repository? Why do you need to do it?
 A: when initialising a repository a .get directory is been created.
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 A: staging area gives us freedom for commiting whichever files we need to. which could seperate two logical changes.
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: using staging area we can the files related to a particular logical change. by adding so it helps to commit a logical change in the repository.
+Q: what are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A: when we need to experiment on projects its really helpful to use branch concept.its helps us to commit changes to a seperate branch from master.
+Q: How do the diagrams help you visualize the branch structure?
+A: its realy helpful in having a clear idea about the commit structure of the repository
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A: branches helps us to experiment different features our project without affecting the main work.if feature is well implemented merging two branches helps us to make it to a single project.on representing it in the diagram we get the clear idea of the repository structure.
+Q: what are the pros and cons of git's automatic merging vs always doing merges manually ?
+A: nil
