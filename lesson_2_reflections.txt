@@ -1,2 +1,4 @@
 Q: what happens when you initialise a repository? Why do you need to do it?
 A: when initialising a repository a .get directory is been created.
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: staging area gives us freedom for commiting whichever files we need to. which could seperate two logical changes.
