@@ -1,0 +1,2 @@
+Q: When would you want to create a remote repository rather than keeping all your work local
+A: I would be creating a remote repository when I am working with someone.so that both of us can contribute to the project in an effective way
